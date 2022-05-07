@@ -1,5 +1,3 @@
-# learning-tracker-mern
-
 ## Full stack mern crud app to track learning
 
 ## Setup and run front end
