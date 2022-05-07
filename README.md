@@ -10,3 +10,8 @@
 
 ## Visit app
 1. Open browser on localhost:3000 
+
+
+![alt text](https://github.com/Per-Anders/learning-tracker-mern/blob/main/learning1.png)
+
+![alt text](https://github.com/Per-Anders/learning-tracker-mern/blob/main/learning2.png)
